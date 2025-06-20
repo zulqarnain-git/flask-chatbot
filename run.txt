@@ -1,0 +1,11 @@
+python -m venv venv_name
+
+venv_name\Scripts\activate
+
+python server.py
+
+
+using openrouter Apikeys
+
+
+https://openrouter.ai/settings/keys
